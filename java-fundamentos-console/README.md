@@ -1,2 +1,7 @@
+Conteúdo
 
-Repositório para estudo de java ☕
+° Tipos primitivos
+° Operadores
+° Condicionais
+° Loops
+° Arrays e matrize
